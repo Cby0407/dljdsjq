@@ -1,84 +1,78 @@
 {
-  "updated_at": "2026-09-05 03:38:56",
-  "total_fetched": 22275,
-  "after_prefilter": 21938,
-  "unique_nodes": 7358,
-  "alive_nodes": 2607,
+  "updated_at": "2026-09-05 08:53:39",
+  "total_fetched": 22310,
+  "after_prefilter": 21979,
+  "unique_nodes": 7386,
+  "alive_nodes": 2792,
   "country_stats": {
-    "AE": 11,
+    "AE": 14,
     "AL": 2,
-    "AM": 1,
-    "AT": 6,
-    "AU": 9,
+    "AT": 4,
+    "AU": 8,
     "BE": 3,
-    "BG": 11,
+    "BG": 8,
     "BR": 1,
-    "CA": 27,
-    "CH": 8,
+    "CA": 28,
+    "CH": 9,
     "CLOUDFLARE": 30,
     "CLOUDFRONT": 9,
-    "CN": 5,
-    "CY": 13,
-    "CZ": 9,
-    "DE": 194,
+    "CN": 7,
+    "CY": 14,
+    "CZ": 12,
+    "DE": 222,
     "DK": 1,
-    "EE": 8,
-    "ES": 15,
+    "EE": 11,
+    "ES": 17,
     "FASTLY": 30,
-    "FI": 39,
-    "FR": 80,
-    "GB": 116,
+    "FI": 45,
+    "FR": 87,
+    "GB": 112,
     "GE": 1,
     "GOOGLE": 2,
-    "GR": 1,
-    "HK": 53,
+    "GR": 2,
+    "HK": 64,
     "HU": 1,
-    "ID": 1,
-    "IE": 6,
+    "IE": 7,
     "IL": 2,
-    "IN": 1,
-    "IR": 45,
-    "IT": 13,
-    "JP": 65,
-    "KR": 45,
-    "KZ": 9,
+    "IN": 3,
+    "IR": 46,
+    "IT": 19,
+    "JP": 66,
+    "KR": 44,
+    "KZ": 8,
     "LT": 2,
     "LU": 1,
-    "LV": 9,
+    "LV": 11,
     "MD": 11,
     "MH": 2,
-    "MN": 1,
-    "MY": 7,
-    "NL": 140,
-    "NO": 15,
+    "MX": 1,
+    "MY": 6,
+    "NL": 156,
+    "NO": 11,
     "NZ": 2,
-    "PL": 24,
+    "PH": 1,
+    "PL": 30,
     "RO": 6,
-    "RS": 12,
+    "RS": 7,
     "RU": 46,
     "SA": 1,
-    "SC": 5,
+    "SC": 6,
     "SE": 15,
-    "SG": 79,
+    "SG": 68,
     "SK": 1,
     "TH": 2,
-    "TR": 22,
-    "TW": 24,
+    "TR": 30,
+    "TW": 19,
     "UA": 1,
-    "US": 363,
+    "US": 393,
     "UZ": 1,
-    "VN": 4,
+    "VN": 9,
     "ZA": 4
   },
   "sources": [
     {
       "name": "AutoMergePublicNodes",
-      "count": 179,
-      "status": "ok"
-    },
-    {
-      "name": "Barabama/v2rayshare",
-      "count": 23,
+      "count": 170,
       "status": "ok"
     },
     {
@@ -87,8 +81,8 @@
       "status": "ok"
     },
     {
-      "name": "Barabama/wenode",
-      "count": 23,
+      "name": "barry-far/V2ray-Config",
+      "count": 7791,
       "status": "ok"
     },
     {
@@ -97,13 +91,8 @@
       "status": "ok"
     },
     {
-      "name": "barry-far/V2ray-Config",
-      "count": 7768,
-      "status": "ok"
-    },
-    {
-      "name": "Epodonios/v2ray-configs",
-      "count": 7769,
+      "name": "Barabama/wenode",
+      "count": 23,
       "status": "ok"
     },
     {
@@ -112,8 +101,8 @@
       "status": "failed"
     },
     {
-      "name": "xyfqzy/free-nodes",
-      "count": 0,
+      "name": "peasoft/NoMoreWalls",
+      "count": 170,
       "status": "ok"
     },
     {
@@ -122,13 +111,8 @@
       "status": "ok"
     },
     {
-      "name": "peasoft/NoMoreWalls",
-      "count": 170,
-      "status": "ok"
-    },
-    {
-      "name": "Barabama/yudou66",
-      "count": 166,
+      "name": "Barabama/v2rayshare",
+      "count": 23,
       "status": "ok"
     },
     {
@@ -137,18 +121,33 @@
       "status": "failed"
     },
     {
-      "name": "yzcjd/jiedian",
-      "count": 21,
-      "status": "ok"
-    },
-    {
       "name": "MatinGhanbari/v2ray-configs",
       "count": 3999,
       "status": "ok"
     },
     {
+      "name": "Barabama/yudou66",
+      "count": 166,
+      "status": "ok"
+    },
+    {
+      "name": "yzcjd/jiedian",
+      "count": 21,
+      "status": "ok"
+    },
+    {
       "name": "Pawdroid/sub",
       "count": 20,
+      "status": "ok"
+    },
+    {
+      "name": "Epodonios/v2ray-configs",
+      "count": 7791,
+      "status": "ok"
+    },
+    {
+      "name": "proxypool/clash-meta-2",
+      "count": 64,
       "status": "ok"
     },
     {
@@ -162,13 +161,13 @@
       "status": "ok"
     },
     {
-      "name": "proxypool/clash-meta-2",
-      "count": 62,
+      "name": "xyfqzy/free-nodes",
+      "count": 0,
       "status": "ok"
     },
     {
       "name": "clashfree/daily",
-      "count": 1535,
+      "count": 1532,
       "status": "ok"
     }
   ]
