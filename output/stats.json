@@ -1,123 +1,114 @@
 {
-  "updated_at": "2026-09-23 18:58:02",
-  "total_fetched": 37742,
-  "after_prefilter": 37638,
-  "unique_nodes": 18963,
-  "alive_nodes": 13635,
+  "updated_at": "2026-09-23 22:51:54",
+  "total_fetched": 37958,
+  "after_prefilter": 37856,
+  "unique_nodes": 19089,
+  "alive_nodes": 13944,
   "country_stats": {
-    "AE": 160,
+    "AE": 167,
     "AL": 20,
-    "AM": 14,
+    "AM": 13,
     "AQ": 3,
     "AR": 3,
-    "AT": 82,
-    "AU": 43,
+    "AT": 84,
+    "AU": 44,
     "AZ": 7,
     "BA": 1,
-    "BE": 40,
-    "BG": 89,
-    "BR": 13,
-    "BY": 12,
+    "BE": 41,
+    "BG": 92,
+    "BR": 14,
+    "BY": 11,
     "BZ": 2,
-    "CA": 84,
-    "CH": 133,
-    "CL": 5,
+    "CA": 88,
+    "CH": 136,
+    "CL": 6,
     "CLOUDFLARE": 30,
     "CLOUDFRONT": 30,
-    "CN": 7,
-    "CO": 1,
-    "CY": 34,
-    "CZ": 72,
-    "DE": 1145,
-    "DK": 17,
-    "EE": 99,
+    "CN": 8,
+    "CO": 2,
+    "CY": 37,
+    "CZ": 74,
+    "DE": 1171,
+    "DK": 18,
+    "EE": 102,
     "EG": 1,
-    "ES": 76,
+    "ES": 77,
     "FASTLY": 30,
-    "FI": 356,
-    "FR": 331,
-    "GB": 391,
+    "FI": 366,
+    "FR": 328,
+    "GB": 403,
     "GE": 8,
-    "GOOGLE": 26,
+    "GOOGLE": 28,
     "GR": 16,
     "GT": 2,
-    "HK": 207,
-    "HR": 3,
+    "HK": 213,
+    "HR": 4,
     "HU": 25,
     "ID": 6,
-    "IE": 14,
-    "IL": 21,
-    "IN": 22,
-    "IQ": 5,
-    "IR": 399,
+    "IE": 18,
+    "IL": 24,
+    "IN": 27,
+    "IQ": 6,
+    "IR": 435,
     "IS": 7,
-    "IT": 63,
+    "IT": 66,
     "JP": 289,
     "KH": 1,
-    "KR": 161,
-    "KZ": 49,
-    "LT": 36,
+    "KR": 164,
+    "KZ": 55,
+    "LT": 35,
     "LU": 2,
-    "LV": 120,
+    "LV": 117,
     "MA": 1,
-    "MD": 80,
-    "MH": 16,
+    "MD": 83,
+    "MH": 17,
     "MK": 2,
     "MN": 1,
     "MO": 1,
-    "MX": 4,
+    "MX": 3,
     "MY": 14,
     "NG": 1,
-    "NL": 941,
-    "NO": 19,
-    "NZ": 5,
+    "NL": 957,
+    "NO": 22,
+    "NZ": 4,
     "PA": 1,
     "PH": 5,
     "PK": 7,
-    "PL": 255,
+    "PL": 260,
+    "PRIVATE": 2,
     "PT": 1,
-    "RO": 82,
-    "RS": 27,
-    "RU": 1105,
+    "RO": 84,
+    "RS": 29,
+    "RU": 1156,
     "SA": 2,
     "SC": 498,
-    "SE": 242,
-    "SG": 319,
+    "SE": 253,
+    "SG": 318,
     "SK": 7,
     "TH": 16,
-    "TR": 180,
-    "TW": 45,
+    "TR": 185,
+    "TW": 44,
     "UA": 13,
-    "US": 2293,
+    "US": 2374,
     "UZ": 5,
     "VN": 14,
     "ZA": 23,
-    "XX": 7
+    "XX": 8
   },
   "sources": [
     {
-      "name": "mahdibland/V2RayAggregator",
-      "count": 200,
-      "status": "ok"
-    },
-    {
       "name": "AutoMergePublicNodes",
-      "count": 89,
-      "status": "ok"
-    },
-    {
-      "name": "Barabama/v2rayshare",
-      "count": 23,
-      "status": "ok"
-    },
-    {
-      "name": "barry-far/V2ray-Config",
-      "count": 7562,
+      "count": 110,
       "status": "ok"
     },
     {
       "name": "Epodonios/v2ray-configs",
-      "count": 7640,
+      "count": 7564,
+      "status": "ok"
+    },
+    {
+      "name": "mahdibland/V2RayAggregator",
+      "count": 200,
       "status": "ok"
     },
     {
@@ -126,18 +117,13 @@
       "status": "ok"
     },
     {
+      "name": "peasoft/NoMoreWalls",
+      "count": 110,
+      "status": "ok"
+    },
+    {
       "name": "MatinGhanbari/v2ray-configs",
       "count": 3999,
-      "status": "ok"
-    },
-    {
-      "name": "peasoft/NoMoreWalls",
-      "count": 89,
-      "status": "ok"
-    },
-    {
-      "name": "Barabama/yudou66",
-      "count": 166,
       "status": "ok"
     },
     {
@@ -146,14 +132,34 @@
       "status": "ok"
     },
     {
-      "name": "mfuu/v2ray",
-      "count": 0,
-      "status": "failed"
+      "name": "barry-far/V2ray-Config",
+      "count": 7564,
+      "status": "ok"
     },
     {
       "name": "proxypool/clash-meta",
       "count": 0,
       "status": "failed"
+    },
+    {
+      "name": "mfuu/v2ray",
+      "count": 0,
+      "status": "failed"
+    },
+    {
+      "name": "Barabama/v2rayshare",
+      "count": 23,
+      "status": "ok"
+    },
+    {
+      "name": "Barabama/wenode",
+      "count": 23,
+      "status": "ok"
+    },
+    {
+      "name": "yzcjd/jiedian",
+      "count": 21,
+      "status": "ok"
     },
     {
       "name": "clashfree/daily",
@@ -166,18 +172,8 @@
       "status": "ok"
     },
     {
-      "name": "yzcjd/jiedian",
-      "count": 21,
-      "status": "ok"
-    },
-    {
-      "name": "Barabama/wenode",
-      "count": 23,
-      "status": "ok"
-    },
-    {
-      "name": "proxypool/clash-meta-2",
-      "count": 60,
+      "name": "Barabama/yudou66",
+      "count": 166,
       "status": "ok"
     },
     {
@@ -191,8 +187,13 @@
       "status": "ok"
     },
     {
+      "name": "proxypool/clash-meta-2",
+      "count": 60,
+      "status": "ok"
+    },
+    {
       "name": "cxddgtb/cxddzy",
-      "count": 17411,
+      "count": 17659,
       "status": "ok"
     }
   ]
